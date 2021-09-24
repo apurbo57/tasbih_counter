@@ -16,6 +16,9 @@ body {
 .main {
 
 text-align: center;
+margin-top: 20px;
+display: inline-block;
+width: 33%;
 
 }
 
